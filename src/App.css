@@ -1,0 +1,17 @@
+.App{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.card{
+    background-image: linear-gradient(to bottom right, rgb(255, 0, 221), rgb(0, 255, 200));
+    color: #fff;
+    border-radius: 30px;
+}
+.card-body{
+    font-size: 15px;
+}
+.card-img-top{
+    border-radius: 80px;
+    margin-left: 25%;
+}
